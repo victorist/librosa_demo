@@ -14,9 +14,9 @@ A python package for music and audio analysis.
 
 
 Documentation
+-------------
 
 It's clone repo: https://github.com/r9y9/librosa
--------------
 See http://librosa.github.io/librosa/ for a complete reference manual and introductory tutorials.
 
 
